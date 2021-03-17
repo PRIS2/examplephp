@@ -33,7 +33,7 @@ class EvenMoreAwesomeAddon extends Addon {
     }
 
     protected function do_something_even_more_awesome() {
-        //...
+        // voy a quitar el smelll
     }
 
 }
